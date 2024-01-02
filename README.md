@@ -14,8 +14,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alth="R">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alth="CPP">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP">
 </p>
 
 <h2 align="center">⚡Tools & Technologies</h2>
@@ -37,30 +37,30 @@
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
 </p>
 
-<h2 align="left">🏆 Awards and Honors</h2>
+<h2 align="center">🏆 Awards and Honors</h2>
 
 <p align="center">
-    <ul>
-        <li>ASWUHS Travel Award, Washington State University, April 2023</li>
-        <li>James and Diann Robbers Student Research Award, Washington State University, April 2023</li>
-        <li>Orange Corners Innovation Fund Award, Kingdom of Netherland Government, 2020</li>
-        <li>Best Graduating Student in Pharmaceutical Chemistry, Bioraj Pharmaceuticals, 2017</li>
-        <li>TOTAL/NNPC National Undergraduate Scholarship Award, Nigeria, 2015-17</li>
-        <li>Murli Chelleram Foundation Scholarship, University of Ilorin, 2015</li>
-        <li>University Scholar Award for Top Student in Pharmacy, University of Ilorin, 2014-15</li>
-    </ul>
+  <ul align="center" style="list-style: none; padding: 0; margin: 0;">
+    <li>ASWUHS Travel Award, Washington State University, April 2023</li>
+    <li>James and Diann Robbers Student Research Award, Washington State University, April 2023</li>
+    <li>Orange Corners Innovation Fund Award, Kingdom of Netherland Government, 2020</li>
+    <li>Best Graduating Student in Pharmaceutical Chemistry, Bioraj Pharmaceuticals, 2017</li>
+    <li>TOTAL/NNPC National Undergraduate Scholarship Award, Nigeria, 2015-17</li>
+    <li>Murli Chelleram Foundation Scholarship, University of Ilorin, 2015</li>
+    <li>University Scholar Award for Top Student in Pharmacy, University of Ilorin, 2014-15</li>
+  </ul>
 </p>
 
-<h2 align="left"> 💻 Technical Skills</h2>
-<p align="center">
-  <ul>
+<h2 align="center"> 💻 Technical Skills</h2>
+<div align="center">
+  <ul align="center" style="list-style: none; padding: 0; margin: 0;">
     <li><strong>Scientific Programming:</strong> Python, TCL scripts, R programming.</li>
     <li><strong>Python Tools & Modules:</strong> Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib, Biopython</li>
     <li><strong>Ligand and Structure-Based Drug Design:</strong> Binding site identification and characterization, Protein preparation, Database filtering</li>
   </ul>
-</p>
+</div>
 
-<p align="center">
+<p align="center" style="margin-top:100px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ayodiyaolu23&count_private=true&show_icons=true&include_all_commits=true" alt="Github Stats">
 </p>
 
